@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  background-image:url('C:/Users/sadhv/Downloads/third.avif');
+  background-size: cover; /* or contain depending on your preference */
+    
+}
+
+
+
+@media print { 
+  .no-printme  { display: none !important;}
+}
+
+.button_style {
+  margin-left: 10px !important;
+  margin-right: 10px;
+}
+
+.centerTable {
+  margin: 0px auto;
+}
+
+h2 {
+    color: #980909;
+}
